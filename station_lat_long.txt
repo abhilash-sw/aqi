@@ -1,0 +1,132 @@
+Secretariat, Amaravati - APPCB	16.5134691	80.517227
+Anand Kala Kshetram, Rajamahendravaram - APPCB	NA	NA
+Tirumala, Tirupati - APPCB	13.6739842	79.3440932
+PWD Grounds, Vijayawada - APPCB	NA	NA
+GVM Corporation, Visakhapatnam - APPCB	NA	NA
+Collectorate, Gaya - BSPCB	24.7873075	84.9879321
+Muzaffarpur Collectorate,Muzaffarpur - BSPCB	NA	NA
+IGSC Planetarium Complex, Patna - BSPCB	NA	NA
+Anand Vihar, Delhi - DPCC	28.65399235	77.3126653890268
+Ashok Vihar, Delhi - DPCC	28.6994533	77.1848256
+Aya Nagar, New Delhi - IMD	28.47649105	77.1329131592514
+Bawana, Delhi - DPCC	28.79966	77.0328847
+Burari Crossing, New Delhi - IMD	28.7285944	77.1993251
+CRRI Mathura Road, New Delhi - IMD	28.55	77.28
+DTU, New Delhi - CPCB	28.743	77.127
+Dr. Karni Singh Shooting Range, Delhi - DPCC	28.5000822	77.2675147241074
+Dwarka-Sector 8, Delhi - DPCC 	28.5656075	77.0670615
+IGI Airport (T3), New Delhi - IMD	28.55489735	77.0846745826692
+IHBAS, Dilshad Garden,New Delhi - CPCB	28.680275	77.201157	
+ITO, New Delhi - CPCB	28.6278464	77.2444747
+Jahangirpuri, Delhi - DPCC	28.7259874	77.1626826
+Jawaharlal Nehru Stadium, Delhi - DPCC	28.58337705	77.2335404028773
+Lodhi Road, New Delhi - IMD	28.5900713	77.2184869
+Major Dhyan Chand National Stadium, Delhi - DPCC	28.6125146	77.237318
+Mandir Marg, New Delhi - DPCC	28.6316293	77.1986485
+Mundaka, Delhi - DPCC	28.6824063	77.0305753
+NSIT Dwarka, New Delhi - CPCB	28.6082819	77.0350079
+Najafgarh, Delhi - DPCC	28.612304	76.9823908
+Narela, Delhi - DPCC	28.8426096	77.0918354
+Nehru Nagar, Delhi - DPCC	28.5685108	77.2513847
+North Campus, DU, New Delhi - IMD	28.69	77.21	
+Okhla Phase-2, Delhi - DPCC	28.5366138	77.2756197
+Patparganj, Delhi - DPCC	28.6115923	77.2905644
+Punjabi Bagh, Delhi - DPCC	28.668945	77.1324614
+Pusa, Delhi - DPCC	28.63629965	77.157644410799
+Pusa, New Delhi - IMD	28.63629965	77.157644410799
+R K Puram, New Delhi - DPCC	28.5656918	77.174646
+Rohini, Delhi - DPCC	28.7162092	77.1170743
+Shadipur, New Delhi - CPCB	28.6388195	77.1596069253118
+Sirifort, New Delhi - CPCB	28.5553237	77.2219555
+Sonia Vihar, Delhi - DPCC	28.7199257	77.2481823
+Sri Aurobindo Marg, Delhi - DPCC	28.5396291	77.2000301
+Vivek Vihar, Delhi - DPCC	28.6691641	77.312266954216
+Wazirpur, Delhi - DPCC	28.6800843	77.1702212399028
+Maninagar, Ahmedabad - GPCB	22.9977135	72.6067174
+Sector- 16A, Faridabad, Haryana - HSPCB	28.4096153	77.3147813733335
+Vikas Sadan, Gurgaon, Haryana - HSPCB	NA	NA
+Sector-6, Panchkula - HSPCB 	30.705972	76.8576644646341
+MD University, Rohtak, Haryana - HSPCB	NA	NA
+Tata Stadium, Jorapokhar - JSPCB	NA	NA
+BTM Layout, Bengaluru - CPCB	12.9151772	77.6102821
+BWSSB Kadabesanahalli, Bengaluru - CPCB	NA	NA
+Bapuji Nagar, Bengaluru - KSPCB	12.9543211	77.5396967
+City Railway Station, Bengaluru - KSPCB	NA	NA
+Hebbal, Bengaluru - KSPCB	13.0382184	77.5919
+Hombegowda Nagar, Bengaluru - KSPCB	12.9544306	77.5924683
+Jayanagar 5th Block, Bengaluru - KSPCB	12.9194605	77.5833211031787
+Peenya, Bengaluru - CPCB	13.0329419	77.5273253
+Sanegurava Halli, Bengaluru - KSPCB	NA	NA
+Silk Board, Bengaluru - KSPCB	12.9169315	77.6212755
+Chikkaballapur Rural, Chikkaballapur - KSPCB	NA	NA
+Deshpande Nagar, Hubballi - KSPCB	15.3597632	75.1362947743961
+Plammoodu, Thiruvananthapuram - Kerala PCB	NA	NA
+Bhopal Chauraha, Dewas - MPPCB	NA	NA
+Sector-D Industrial Area, Mandideep - MPPCB	NA	NA
+Sector-2 Industrial Area, Pithampur - MPPCB	NA	NA
+Bandhavgar Colony, Satna - MPPCB	NA	NA
+Vindhyachal STPS, Singrauli - MPPCB	NA	NA
+Mahakaleshwar Temple, Ujjain - MPPCB	23.18297215	75.76818505833
+More Chowk Waluj, Aurangabad - MPCB	19.8389644	75.2465856
+Chandrapur, Chandrapur - MPCB	19.9508161	79.2986673
+MIDC Khutala, Chandrapur - MPCB	19.9777956	79.2363326728324
+Bandra, Mumbai - MPCB	19.0549792	72.8402203
+Opp GPO Civil Lines, Nagpur - MPCB	NA	NA
+Gangapur Road, Nashik - MPCB	20.0423255	73.6883487
+Airoli, Navi Mumbai - MPCB	19.1616875	73.0021436217578
+Karve Road Pune, Pune - MPCB	18.5018825	73.8150981
+Solapur, Solapur - MPCB	17.6715272	75.8975502
+Pimpleshwar Mandir, Thane - MPCB	NA	NA
+GM Office, Brajrajnagar - OSPCB	NA	NA
+Talcher Coalfields,Talcher - OSPCB	NA	NA
+Golden Temple, Amritsar - PPCB	31.6199497	74.8765624
+Hardev Nagar, Bathinda - PPCB	NA	NA
+Civil Line, Jalandhar - PPCB	31.0804396	75.3362241
+Kalal Majra, Khanna - PPCB	30.7421169	76.202729
+Punjab Agricultural University, Ludhiana - PPCB	30.9040094	75.8004222421504
+RIMT University, Mandi Gobindgarh - PPCB	NA	NA
+Model Town, Patiala - PPCB	30.6618372	75.5899713023009
+Ratanpura, Rupnagar - PPCB	NA	NA
+Moti Doongri, Alwar, Rajasthan - RSPCB	26.9073533	75.8227595
+Civil Lines,  Ajmer - RSPCB	26.909503	75.7811856
+RIICO Ind. Area III, Bhiwadi, Rajasthan - RSPCB	NA	NA
+Adarsh Nagar, Jaipur - RSPCB	26.8986698	75.8163567
+Police Commissionerate, Jaipur - RSPCB	NA	NA
+Shastri Nagar, Jaipur - RSPCB	26.9374953	75.7997422
+Collectorate, Jodhpur - RSPCB	NA	NA
+Shrinath Puram, Kota - RSPCB	NA	NA
+Indira Colony Vistar, Pali - RSPCB	NA	NA
+Ashok Nagar, Udaipur - RSPCB	24.5863276	73.7043272
+Alandur Bus Depot, Chennai - CPCB	NA	NA
+Manali, Chennai - CPCB	13.1672275	80.2598107
+Velachery Res. Area, Chennai - CPCB	NA	NA
+Bollaram Industrial Area, Hyderabad - TSPCB	NA	NA
+Central University, Hyderabad - TSPCB	17.4031425	78.4559343115726
+ICRISAT Patancheru, Hyderabad - TSPCB	NA	NA
+IDA Pashamylaram, Hyderabad - TSPCB	NA	NA
+Sanathnagar, Hyderabad - TSPCB	17.4569654	78.4434780636594
+Zoo Park, Hyderabad - TSPCB	NA	NA
+Sanjay Palace, Agra - UPPCB	NA	NA
+New Collectorate, Baghpat - UPPCB	NA	NA
+Yamunapuram, Bulandshahr - UPPCB	NA	NA
+Vasundhara, Ghaziabad, UP - UPPCB	28.6628814	77.3757245201259
+Knowledge Park - III, Greater Noida - UPPCB	45.9318769	-66.6596664781045
+Anand Vihar, Hapur - UPPCB	NA	NA
+Nehru Nagar, Kanpur - UPPCB	26.4694611	80.32111545479
+Central School, Lucknow - CPCB	1.29713885	103.795184850764
+Lalbagh, Lucknow - CPCB	26.7908341	80.8701804
+Nishant Ganj, Lucknow - UPPCB	NA	NA
+Talkatora District Industries Center, Lucknow - CPCB	NA	NA
+Lajpat Nagar, Moradabad - UPPCB	NA	NA
+New Mandi, Muzaffarnagar - UPPCB	NA	NA
+Sector - 125, Noida, UP - UPPCB	39.2281594	-78.8558549
+Sector - 62, Noida, UP - IMD	39.2281594	-78.8558549
+Ardhali Bazar, Varanasi - UPPCB	NA	NA
+Asansol Court Area, Asansol - WBPCB	NA	NA
+Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB	NA	NA
+Haldia, Haldia - WBPCB	22.0447915	88.065527
+Ghusuri, Howrah - WBPCB	NA	NA
+Padmapukur, Howrah - WBPCB	22.5684157	88.3056857
+Rabindra Bharati University, Kolkata - WBPCB	NA	NA
+Victoria, Kolkata - WBPCB	22.54978375	88.3391136312656
+Ward-32 Bapupara, Siliguri - WBPCB	NA	NA
